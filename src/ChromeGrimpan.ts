@@ -11,6 +11,7 @@ class Grimpan {
     }
   }
   intialize() {}
+  intializeMenu() {}
 
   static getInstance() {
     if (!this.instance) {
